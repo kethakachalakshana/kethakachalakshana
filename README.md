@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Kethaka Chalakshana! 👋
 
-<!--
-**kethakachalakshana/kethakachalakshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BICT Undergraduate at Rajarata University of Sri Lanka, with a strong passion for **Data Science, Engineering, and IoT**. I love building innovative solutions, ranging from embedded systems and blockchain applications to web-based management systems.
 
-Here are some ideas to get you started:
+#### 🚀 About Me:
+* 🎓 Currently studying Bachelor of Information and Communication Technology.
+* 💻 I enjoy working with **PHP, JavaScript, MySQL, and Python**.
+* 🔧 Experienced in IoT hardware like **ESP32, SIM800L, and LoRa modules**.
+* 🤖 Enthusiastic about AI prompt engineering, data engineering, and problem-solving.
+* 💬 Ask me about IoT integrations, backend development, or wildlife tracking projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me:
+* LinkedIn: [Kethaka Chalakshana](https://www.linkedin.com/in/kethaka-chalakshana-043191311)
+* **Freelance Profiles:** Available for hire on Upwork, Truelancer & Freelancer.com
